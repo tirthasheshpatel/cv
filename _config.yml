@@ -1,12 +1,12 @@
 # Site
-repository: tirthasheshpatel.cv
+repository: tirthasheshpatel/cv
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Personal info
 name: Tirth Patel
 title: Machine Learning
 email: tirthasheshpatel@gmail.com
-phone: 0+917845248563
+phone: "+916354700696"
 website: tirthasheshpatel.github.io/cv/
 
 # Dark Mode (true/false/never)
@@ -37,10 +37,12 @@ linkedin_username: tirthasheshpatel
 # about_title: About Me (Use this to override about section title)
 about_profile_image: /images/logo_sq.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Interested in machine learning, deep learning and bayesian statistics for data analysis.
+  - Interested in machine learning, deep learning and bayesian statistics for data analysis.
   Completed several MOOC courses from numerous platforms and have been maintaining many projects on GitHub.
-  [The list of the MOOC courses/specializations I have completed can be found here.](https://github.com/tirthasheshpatel/tirthasheshpatel.github.io/tree/master/MyProjects/MOOCs)
-  GSoC 2020 PyMC3 student developer and contributor to `scipy`, `numpy`, `scikit-learn` and `aimacode`.
+
+  - [The list of the MOOC courses/specializations I have completed can be found here.](https://github.com/tirthasheshpatel/tirthasheshpatel.github.io/tree/master/MyProjects/MOOCs)
+  
+  - GSoC 2020 PyMC3 student developer and contributor to `scipy`, `numpy`, `scikit-learn` and `aimacode`.
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
