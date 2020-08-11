@@ -16,7 +16,8 @@
     I apply Variational Autoencoders, Gaussian processes, and Bayesian Optimization
     for this task.
 
-- name: Image Captioning
+- layout: top-middle
+  name: Image Captioning
   link: https://github.com/tirthasheshpatel/tirthasheshpatel.github.io/tree/master/MyProjects/Image%20Captioning.ipynb
   description: >
     I have used TensorFlow’s pretrained InceptionNet as a encoder network and dynamic
