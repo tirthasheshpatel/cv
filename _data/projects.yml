@@ -19,6 +19,8 @@
 - layout: top-middle
   name: Image Captioning
   link: https://github.com/tirthasheshpatel/tirthasheshpatel.github.io/tree/master/MyProjects/Image%20Captioning.ipynb
+  quote: >
+    LSTMs and Convolutional Neural Networks!
   description: >
     I have used TensorFlow’s pretrained InceptionNet as a encoder network and dynamic
     stacked LSTM as a decoder network. All the images provided as input are converted
