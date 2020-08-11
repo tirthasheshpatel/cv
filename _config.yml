@@ -36,7 +36,7 @@ linkedin_username: tirthasheshpatel
 # About Section
 # about_title: About Me (Use this to override about section title)
 about_profile_image: /images/logo_sq.jpg
-about_content: | # this will include new lines to allow paragraphs
+about_content: > # this will include new lines to allow paragraphs
   - Interested in machine learning, deep learning and bayesian statistics for data analysis.
   Completed several MOOC courses from numerous platforms and have been maintaining many projects on GitHub.
 
