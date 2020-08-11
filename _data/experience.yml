@@ -12,6 +12,7 @@
     - My goal for GSoC 2020 is to implement, test, and maintain a higher-level API for
     Gaussian Processes in PyMC4 using TensorFlow and TensorFlow Probability and write
     tutorials/articles and notebooks explaining their usage.
+
     - My work consists of implementing Gaussian Process Models and writing optimization
     methods like Newton's Method and Powell's Method to find the maximum a-posteriori
     of the models. My goal is also to implement at least one approximation technique

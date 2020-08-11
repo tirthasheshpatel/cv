@@ -10,6 +10,7 @@
     Since the victim or witness usually isn’t good at drawing, computer-aided generation
     is applied to reconstruct the face attacker. One of the most commonly used techniques
     is evolutionary systems that compose the final face from many predefined parts.
+
     - In this project, I implement an app for creating a facial composite that will be able
     to construct desired faces without explicitly providing databases of templates.
     I apply Variational Autoencoders, Gaussian processes, and Bayesian Optimization
@@ -25,6 +26,7 @@
     stacked LSTM as a decoder network. All the images provided as input are converted
     to vectors of a fixed length and this vectors are a input to the one-to-many LSTM
     that outputs a english caption for the image.
+
     - I have used finetuning using Keras for the task for about 30 epochs. It produces
     reasonable captions while testing on internet images. You can also test an image by
     uploading it to the internet and running the last couple of cells of the notebook.
