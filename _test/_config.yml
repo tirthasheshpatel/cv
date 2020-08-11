@@ -1,0 +1,62 @@
+# Site
+repository: tirthasheshpatel/cv
+# favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
+
+# Personal info
+name: Tirth Patel
+title: Machine Learning
+email: tirthasheshpatel@gmail.com
+phone: 0+917845248563
+website: tirthasheshpatel.github.io/cv
+
+# Social links
+twitter_username: __tirthap__
+github_username:  tirthasheshpatel
+stackoverflow_username: "10177420"
+linkedin_username: tirthasheshpatel
+
+# About Section
+# about_title: About Me (Use this to override about section title)
+about_profile_image: _test/images/logo_sq.jpg
+about_content: > # this means to ignore newlines until the next config item.
+  Interested in machine learning, deep learning and bayesian statistics for data analysis.
+  Completed several MOOC courses from numerous platforms and have been maintaining many projects on GitHub.
+  [The list of the MOOC courses/specializations I have completed can be found here.](https://github.com/tirthasheshpatel/tirthasheshpatel.github.io/tree/master/MyProjects/MOOCs)
+  GSoC 2020 PyMC3 student developer and contributor to `scipy`, `numpy`, `scikit-learn` and `aimacode`.
+
+# Projects Section
+# projects_title: Projects #(Use this to override about projects section title)
+
+# Experience Section
+# experience_title: Experience #(Use this to override about experience section title)
+
+# Education Section
+# educaton_title: Education #(Use this to override about education section title)
+
+# More Section
+# more_title: A Little More About Me #(Use this to override about more section title)
+# more_content: > # this means to ignore newlines until the next config item.
+#   This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests. Or you could title it **Skills**
+#   and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+
+# Footer
+footer_show_references: true
+
+# Build settings
+# theme: modern-resume-theme (Use this is you are hosting your resume yourself)
+# remote_theme: sproogen/modern-resume-theme (Use this if you are hosting your resume on GitHub)
+
+data_dir: _test/_data
+
+include:
+ - _test
+
+exclude:
+  - vendor
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag

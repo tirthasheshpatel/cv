@@ -1,0 +1,36 @@
+- layout: right
+  company: Google Summer of Code 2020
+  link: https://summerofcode.withgoogle.com/projects/6135416450711552
+  job_title: Student Developer
+  dates: May 2020 - September 2020
+  quote: >
+   – PyMC3 is a probabilistic programming package for Python that allows users to
+     fit Bayesian models using a variety of numerical methods, most notably
+     Markov chain Monte Carlo (MCMC) and variational inference (VI). Its
+     flexibility and extensibility make it applicable to a large suite of problems.
+  description: >
+    My goal for GSoC 2020 is to implement, test, and maintain a higher-level API for
+    Gaussian Processes in PyMC4 using TensorFlow and TensorFlow Probability and write
+    tutorials/articles and notebooks explaining their usage.
+
+    My work consists of implementing Gaussian Process Models and writing optimization
+    methods like Newton's Method and Powell's Method to find the maximum a-posteriori
+    of the models. My goal is also to implement at least one approximation technique
+    when full GP modelling becomes impractical
+
+# - layout: top
+#   company: Open Source Contributor
+#   job_title: Job title 1
+#   dates: January 2014 - November 2016
+#   description: >
+#     Description of role
+
+# - layout: top-right
+#   company: Company 3
+#   jobs:
+#     - title: Job title 1
+#       dates: February 2013 - December 2013
+#     - title: Job title 2
+#       dates: June 2012 - February 2013
+#   description: >
+#     Description of role
