@@ -1,5 +1,5 @@
 - layout: left
-  company: Google Summer of Code 2020
+  company:  GSoC'20 with PyMC3 at NumFOCUS
   job_title: Student Developer
   dates: May 2020 - September 2020
   quote: >
@@ -17,13 +17,13 @@
     of the models. My goal is also to implement at least one approximation technique
     when full GP modelling becomes impractical
 
-    - Project Link : https://summerofcode.withgoogle.com/projects/6135416450711552
+    - [Project Link](https://summerofcode.withgoogle.com/projects/6135416450711552)
 
-    - Blogs on the Project : https://tirthasheshpatel.github.io/gsoc2020/
+    - [Blogs on the Project](https://tirthasheshpatel.github.io/gsoc2020/)
 
 - layout: left
-  company: GitHub
-  job_title: Open Source Contributor
+  company: Open Source Contributor
+  job_title: GitHub
   dates: October 2018 - Present
   description: >
     - I have contributed to top OSS projects that fall under the Python Scientific Ecosystem.
