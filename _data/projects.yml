@@ -1,5 +1,5 @@
 # Project template
-- layout: top-middle
+- layout: left
   name: Facial Composites
   link: https://github.com/tirthasheshpatel/tirthasheshpatel.github.io/tree/master/MyProjects/Facial%20Composites.ipynb
   # github: tirthasheshpatel/tirthasheshpatel.github.io
@@ -16,7 +16,7 @@
     I apply Variational Autoencoders, Gaussian processes, and Bayesian Optimization
     for this task.
 
-- layout: top-middle
+- layout: left
   name: Image Captioning
   link: https://github.com/tirthasheshpatel/tirthasheshpatel.github.io/tree/master/MyProjects/Image%20Captioning.ipynb
   quote: >

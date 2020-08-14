@@ -4,13 +4,13 @@ repository: tirthasheshpatel/cv
 
 # Personal info
 name: Tirth Patel
-title: Machine Learning
+title: Artificial Intelligence | Machine Learning
 email: tirthasheshpatel@gmail.com
 phone: "+916354700696"
 website: tirthasheshpatel.github.io/cv/
 
 # Dark Mode (true/false/never)
-darkmode: true
+darkmode: false
 
 # Social links
 twitter_username: __tirthap__

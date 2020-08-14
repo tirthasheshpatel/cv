@@ -1,4 +1,4 @@
-- layout: top-middle
+- layout: left
   company: Google Summer of Code 2020
   link: https://summerofcode.withgoogle.com/projects/6135416450711552
   job_title: Student Developer
@@ -18,12 +18,16 @@
     of the models. My goal is also to implement at least one approximation technique
     when full GP modelling becomes impractical
 
-# - layout: top
-#   company: Open Source Contributor
-#   job_title: Job title 1
-#   dates: January 2014 - November 2016
-#   description: >
-#     Description of role
+- layout: left
+  company: GitHub
+  job_title: Open Source Contributor
+  dates: October 2018 - Present
+  description: >
+    - I have contributed to top OSS projects that fall under the Python Scientific Ecosystem.
+
+    - I have made several contributions to scipy.stats module and been mentioned in THANKS.txt of the scipy library.
+
+    - Contributed to: NumPy, SciPy, Scikit-Learn, PyMC3, and aima-python
 
 # - layout: top-right
 #   company: Company 3
