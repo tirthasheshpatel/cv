@@ -1,6 +1,5 @@
 - layout: left
   company: Google Summer of Code 2020
-  link: https://summerofcode.withgoogle.com/projects/6135416450711552
   job_title: Student Developer
   dates: May 2020 - September 2020
   quote: >
@@ -17,6 +16,10 @@
     methods like Newton's Method and Powell's Method to find the maximum a-posteriori
     of the models. My goal is also to implement at least one approximation technique
     when full GP modelling becomes impractical
+
+    - Project Link : https://summerofcode.withgoogle.com/projects/6135416450711552
+
+    - Blogs on the Project : https://tirthasheshpatel.github.io/gsoc2020/
 
 - layout: left
   company: GitHub

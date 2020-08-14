@@ -1,7 +1,6 @@
 # Project template
 - layout: left
   name: Facial Composites
-  link: https://github.com/tirthasheshpatel/tirthasheshpatel.github.io/tree/master/MyProjects/Facial%20Composites.ipynb
   # github: tirthasheshpatel/tirthasheshpatel.github.io
   quote: >
     Variational Auto-Encoders and Bayesian Optimization.
@@ -15,6 +14,8 @@
     to construct desired faces without explicitly providing databases of templates.
     I apply Variational Autoencoders, Gaussian processes, and Bayesian Optimization
     for this task.
+
+    - [See the Project Here](https://github.com/tirthasheshpatel/tirthasheshpatel.github.io/tree/master/MyProjects/Facial%20Composites.ipynb)
 
 - layout: left
   name: Image Captioning
@@ -30,3 +31,5 @@
     - I have used finetuning using Keras for the task for about 30 epochs. It produces
     reasonable captions while testing on internet images. You can also test an image by
     uploading it to the internet and running the last couple of cells of the notebook.
+
+    - [See the Project Here](https://github.com/tirthasheshpatel/tirthasheshpatel.github.io/tree/master/MyProjects/Image%20Captioning.ipynb)
