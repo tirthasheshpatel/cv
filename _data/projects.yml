@@ -6,20 +6,24 @@
     Variational Auto-Encoders and Bayesian Optimization.
   description: >
     - Facial composites are widely used in forensics to generate images of suspects.
-    Since the victim or witness usually isn’t good at drawing, computer-aided generation
-    is applied to reconstruct the face attacker. One of the most commonly used techniques
-    is evolutionary systems that compose the final face from many predefined parts.
+      Since the victim or witness usually isn’t good at drawing, computer-aided generation
+      is applied to reconstruct the face attacker. One of the most commonly used techniques
+      is evolutionary systems that compose the final face from many predefined parts.
 
     - In this project, I implement an app for creating a facial composite that will be able
-    to construct desired faces without explicitly providing databases of templates.
-    I apply Variational Autoencoders, Gaussian processes, and Bayesian Optimization
-    for this task.
+      to construct desired faces without explicitly providing databases of templates.
+      I apply Variational Autoencoders, Gaussian processes, and Bayesian Optimization
+      for this task.
+
+    - **Skills Applied**: Bayesian Modelling, Bayesian Optimization, Gaussian Processes,
+      Variational Auto Encoder, Variational Inference, Convolutional Neural Networks.
+
+    - **Frameworks Used**: TensorFlow 1.x, NumPy, SciPy, matplotlib, GPy, GPyOpt
 
     - [See the Project Here](https://github.com/tirthasheshpatel/tirthasheshpatel.github.io/tree/master/MyProjects/Facial%20Composites.ipynb)
 
 - layout: left
   name: Image Captioning
-  link: https://github.com/tirthasheshpatel/tirthasheshpatel.github.io/tree/master/MyProjects/Image%20Captioning.ipynb
   quote: >
     LSTMs and Convolutional Neural Networks!
   description: >
@@ -32,4 +36,25 @@
     reasonable captions while testing on internet images. You can also test an image by
     uploading it to the internet and running the last couple of cells of the notebook.
 
+    - **Skills Applied**: Convolutional Neural Networks, Long Short Term Memory, NLP, Image
+      Preprocessing
+
+    - **Frameworks used**: TensorFlow 1.x, NumPy, SciPy, scikit-learn
+
     - [See the Project Here](https://github.com/tirthasheshpatel/tirthasheshpatel.github.io/tree/master/MyProjects/Image%20Captioning.ipynb)
+
+- layout: left
+  name: Handwritten Digits Generator
+  quote: >
+    GANs and VAEs are just awesome!
+  description: >
+    - I trained a Variational Auto Encoder from scratch for 100 epochs on a training
+      set of 60,000 images and 3 and 30 dimensional latent space. The generator generated
+      very clear fake handwritten images.
+
+    - **Skills Applied**: Convolutional Neural Networks, Image Preprocessing, Bayesian
+      Modelling, Variational Auto Encoders
+
+    - **Frameworks used**: TensorFlow 1.x, NumPy, SciPy, matplotlib
+
+    - [See the Project Here](https://github.com/tirthasheshpatel/tirthasheshpatel.github.io/blob/master/MyProjects/Variational%20Auto%20Encoder%20on%20MNIST.ipynb)
