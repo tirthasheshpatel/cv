@@ -1,7 +1,6 @@
 # Talks and Publications template
 - layout: left
   name: HandCrafting an Artificial Neural Network in pure NumPy
-  github: tirthasheshpatel/Neural-Network
   quote: >
     In this article, I have implemented a fully vectorized code for Artificial Neural Network
     with Dropout and L2 Regularization.
@@ -16,10 +15,11 @@
 
     - [See Article](https://towardsdatascience.com/handcrafting-an-artificial-neural-network-e0b663e88a53)
 
+    - [See GitHub Repository](https://www.github.com/tirthasheshpatel/Neural-Network)
+
 
 - layout: left
   name: Image Captioning
-  github: Searching in AI
   quote: >
     This article explores the famous graph traversals, namely, Depth First Search (DFS), Breadth First Search (BFS),
     Uniform Cost Search (Dijkstra’s algorithm), A-Star Search, Weighed A-Star Search and Learning Real Time
@@ -31,18 +31,20 @@
 
     - [See Article on Medium](https://medium.com/analytics-vidhya/searching-in-ai-e05973068c8e)
 
+    - [See GitHub Repository](https://www.github.com/tirthasheshpatel/Searching in AI)
+
 - layout: left
   name: Speaker at Data Driven Astronomy Workshop
-  github: tirthasheshpatel/Data-Driven-Astronomy
   quote: >
     A talk on the impact of Data Science on Astronomy.
   description: >
-    Delivered a 6 hour talk on how big data is used in astronomy to perform data analytics
-    and machine learning methods to predict redshifts
+    - Delivered a 6 hour talk on how big data is used in astronomy to perform data analytics
+    and machine learning methods to predict redshifts.
+
+    - [See GitHub Repository](https://www.github.com/tirthasheshpatel/Data-Driven-Astronomy)
 
 - layout: left
   name: My Blog Page - tirthasheshpatel.github.io
-  github: tirthasheshpatel/Data-Driven-Astronomy
   quote: >
     I write about sciences that interest me.
   description: >
@@ -51,3 +53,5 @@
     maintaining it since January 2020
 
     - [Visit my Website](https://tirthasheshpatel.github.io)
+
+    - [See GitHub Repository](https://www.github.com/tirthasheshpatel/Data-Driven-Astronomy)
