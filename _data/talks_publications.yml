@@ -17,9 +17,8 @@
 
     - [See GitHub Repository](https://www.github.com/tirthasheshpatel/Neural-Network)
 
-
 - layout: left
-  name: Image Captioning
+  name: Searching in AI
   quote: >
     This article explores the famous graph traversals, namely, Depth First Search (DFS), Breadth First Search (BFS),
     Uniform Cost Search (Dijkstra’s algorithm), A-Star Search, Weighed A-Star Search and Learning Real Time
@@ -29,9 +28,9 @@
 
     - Published in [Analytics Vidhya](https://www.analyticsvidhya.com/)
 
-    - [See Article on Medium](https://medium.com/analytics-vidhya/searching-in-ai-e05973068c8e)
+    - [See Article](https://medium.com/analytics-vidhya/searching-in-ai-e05973068c8e)
 
-    - [See GitHub Repository](https://www.github.com/tirthasheshpatel/Searching in AI)
+    - [See GitHub Repository](https://www.github.com/tirthasheshpatel/Searching-in-AI)
 
 - layout: left
   name: Speaker at Data Driven Astronomy Workshop
