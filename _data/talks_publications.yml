@@ -1,8 +1,7 @@
 # Talks and Publications template
-- layout: top-middle
+- layout: left
   name: HandCrafting an Artificial Neural Network in pure NumPy
   github: tirthasheshpatel/Neural-Network
-  link: https://towardsdatascience.com/handcrafting-an-artificial-neural-network-e0b663e88a53
   quote: >
     In this article, I have implemented a fully vectorized code for Artificial Neural Network
     with Dropout and L2 Regularization.
@@ -11,11 +10,12 @@
     Network tested on multiple datasets. Further, dropout and L2 regularization techniques are
     implemented and explained in detail.
 
+    [See Article](https://towardsdatascience.com/handcrafting-an-artificial-neural-network-e0b663e88a53)
 
-- layout: top-middle
+
+- layout: left
   name: Image Captioning
   github: Searching-in-AI
-  link: https://medium.com/analytics-vidhya/searching-in-ai-e05973068c8e
   quote: >
     This article explores the famous graph traversals, namely, Depth First Search (DFS), Breadth First Search (BFS),
     Uniform Cost Search (Dijkstra’s algorithm), A-Star Search, Weighed A-Star Search and Learning Real Time
@@ -23,7 +23,9 @@
   description: >
     I created and explained animations for various search algorithms in Python.
 
-- layout: top-middle
+    [See Article](https://medium.com/analytics-vidhya/searching-in-ai-e05973068c8e)
+
+- layout: left
   name: Speaker at Data Driven Astronomy
   github: tirthasheshpatel/Data-Driven-Astronomy
   quote: >
@@ -32,7 +34,7 @@
     Delivered a 6 hour talk on how big data is used in astronomy to perform data analytics
     and machine learning methods to predict redshifts
 
-- layout: top-middle
+- layout: left
   name: My Blog Page -- tirthasheshpatel.github.io
   github: tirthasheshpatel/Data-Driven-Astronomy
   quote: >
