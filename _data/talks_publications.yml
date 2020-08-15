@@ -1,6 +1,7 @@
 # Talks and Publications template
 - layout: left
   name: HandCrafting an Artificial Neural Network in pure NumPy
+  dates: February 2019
   quote: >
     In this article, I have implemented a fully vectorized code for Artificial Neural Network
     with Dropout and L2 Regularization.
@@ -19,6 +20,7 @@
 
 - layout: left
   name: Searching in AI
+  dates: February 2020
   quote: >
     This article explores the famous graph traversals, namely, Depth First Search (DFS), Breadth First Search (BFS),
     Uniform Cost Search (Dijkstra’s algorithm), A-Star Search, Weighed A-Star Search and Learning Real Time
@@ -34,6 +36,7 @@
 
 - layout: left
   name: Speaker at Data Driven Astronomy Workshop
+  dates: October 2019
   quote: >
     A talk on the impact of Data Science on Astronomy.
   description: >
@@ -44,6 +47,7 @@
 
 - layout: left
   name: My Blog Page - tirthasheshpatel.github.io
+  dates: January 2020
   quote: >
     I write about sciences that interest me.
   description: >
