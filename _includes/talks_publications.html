@@ -1,0 +1,6 @@
+<div class="container projects-container">
+    <h3>Talks and Publications</h3>
+    {% for project in site.data.talks_publications %}
+      {% include {{ project.layout | default: 'left' | append: ".html" }} item=project %}
+    {% endfor %}
+</div>

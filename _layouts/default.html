@@ -24,6 +24,10 @@
         {%- include projects.html -%}
       {%- endif -%}
 
+      {%- if site.data.talks_publications.size > 0 -%}
+        {%- include talks_publications.html -%}
+      {%- endif -%}
+
       {%- if site.data.education.size > 0 -%}
         {%- include education.html -%}
       {%- endif -%}
