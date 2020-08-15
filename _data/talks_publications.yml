@@ -1,5 +1,5 @@
 # Talks and Publications template
-- layout: top
+- layout: top-middle
   name: HandCrafting an Artificial Neural Network in pure NumPy
   github: tirthasheshpatel/Neural-Network
   link: https://towardsdatascience.com/handcrafting-an-artificial-neural-network-e0b663e88a53
@@ -12,7 +12,7 @@
     implemented and explained in detail.
 
 
-- layout: top
+- layout: top-middle
   name: Image Captioning
   github: Searching-in-AI
   link: https://medium.com/analytics-vidhya/searching-in-ai-e05973068c8e
@@ -21,25 +21,23 @@
     Uniform Cost Search (Dijkstra’s algorithm), A-Star Search, Weighed A-Star Search and Learning Real Time
     A-Star Search algorithms with interesting visualizations.
   description: >
-    ![Animation Image](https://camo.githubusercontent.com/9e8e9380ccc93c87d804ef5771d902c7d1bd8f43/68747470733a2f2f73352e67696679752e636f6d2f696d616765732f73656172636834652d2d2d4a7570797465722d4e6f7465626f6f6b2d312e676966)
+    I created and explained animations for various search algorithms in Python.
 
-    - I created and explained animations for various search algorithms in Python.
-
-- layout: left
+- layout: top-middle
   name: Speaker at Data Driven Astronomy
   github: tirthasheshpatel/Data-Driven-Astronomy
   quote: >
     A talk on the impact of Data Science on Astronomy.
   description: >
-    - Delivered a 6 hour talk on how big data is used in astronomy to perform data analytics
-      and machine learning methods to predict redshifts
+    Delivered a 6 hour talk on how big data is used in astronomy to perform data analytics
+    and machine learning methods to predict redshifts
 
-- layout: left
+- layout: top-middle
   name: My Blog Page -- tirthasheshpatel.github.io
   github: tirthasheshpatel/Data-Driven-Astronomy
   quote: >
     A write about sciences that interest me.
   description: >
-    - I write multiple articles on Machine Learning, AI,
-      Physics, and Mathematics on my website. I have been
-      maintaining it since January 2020
+    I write multiple articles on Machine Learning, AI,
+    Physics, and Mathematics on my website. I have been
+    maintaining it since January 2020
