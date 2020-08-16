@@ -1,3 +1,3 @@
 ## License
 
-The theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
+`modern-resume-theme` taken from James Grant's Repository. See the [Licence](LICENSE) for more details
