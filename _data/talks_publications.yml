@@ -1,5 +1,46 @@
 # Talks and Publications template
 - layout: left
+  name: Searching in AI
+  dates: February 2020
+  quote: >
+    This article explores the famous graph traversals, namely, Depth First Search (DFS), Breadth First Search (BFS),
+    Uniform Cost Search (Dijkstra’s algorithm), A-Star Search, Weighed A-Star Search and Learning Real Time
+    A-Star Search algorithms with interesting visualizations.
+  description: >
+    - I created and explained animations for various search algorithms in Python.
+
+    - Published in [Analytics Vidhya](https://www.analyticsvidhya.com/)
+
+    - [See Article](https://medium.com/analytics-vidhya/searching-in-ai-e05973068c8e)
+
+    - [See GitHub Repository](https://www.github.com/tirthasheshpatel/Searching-in-AI)
+
+- layout: left
+  name: My Blog Page - tirthasheshpatel.github.io
+  dates: January 2020 - Present
+  quote: >
+    I write about sciences that interest me.
+  description: >
+    - I write multiple articles on Machine Learning, AI,
+    Physics, and Mathematics on my website. I have been
+    maintaining it since January 2020
+
+    - [Visit my Website](https://tirthasheshpatel.github.io)
+
+    - [See GitHub Repository](https://www.github.com/tirthasheshpatel/Data-Driven-Astronomy)
+
+- layout: left
+  name: Speaker at Data Driven Astronomy Workshop
+  dates: October 2019
+  quote: >
+    A talk on the impact of Data Science on Astronomy.
+  description: >
+    - Delivered a 6 hour talk on how big data is used in astronomy to perform data analytics
+    and machine learning methods to predict redshifts.
+
+    - [See GitHub Repository](https://www.github.com/tirthasheshpatel/Data-Driven-Astronomy)
+
+- layout: left
   name: HandCrafting an Artificial Neural Network in pure NumPy
   dates: February 2019
   quote: >
@@ -17,44 +58,3 @@
     - [See Article](https://towardsdatascience.com/handcrafting-an-artificial-neural-network-e0b663e88a53)
 
     - [See GitHub Repository](https://www.github.com/tirthasheshpatel/Neural-Network)
-
-- layout: left
-  name: Searching in AI
-  dates: February 2020
-  quote: >
-    This article explores the famous graph traversals, namely, Depth First Search (DFS), Breadth First Search (BFS),
-    Uniform Cost Search (Dijkstra’s algorithm), A-Star Search, Weighed A-Star Search and Learning Real Time
-    A-Star Search algorithms with interesting visualizations.
-  description: >
-    - I created and explained animations for various search algorithms in Python.
-
-    - Published in [Analytics Vidhya](https://www.analyticsvidhya.com/)
-
-    - [See Article](https://medium.com/analytics-vidhya/searching-in-ai-e05973068c8e)
-
-    - [See GitHub Repository](https://www.github.com/tirthasheshpatel/Searching-in-AI)
-
-- layout: left
-  name: Speaker at Data Driven Astronomy Workshop
-  dates: October 2019
-  quote: >
-    A talk on the impact of Data Science on Astronomy.
-  description: >
-    - Delivered a 6 hour talk on how big data is used in astronomy to perform data analytics
-    and machine learning methods to predict redshifts.
-
-    - [See GitHub Repository](https://www.github.com/tirthasheshpatel/Data-Driven-Astronomy)
-
-- layout: left
-  name: My Blog Page - tirthasheshpatel.github.io
-  dates: January 2020
-  quote: >
-    I write about sciences that interest me.
-  description: >
-    - I write multiple articles on Machine Learning, AI,
-    Physics, and Mathematics on my website. I have been
-    maintaining it since January 2020
-
-    - [Visit my Website](https://tirthasheshpatel.github.io)
-
-    - [See GitHub Repository](https://www.github.com/tirthasheshpatel/Data-Driven-Astronomy)
